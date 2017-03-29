@@ -113,6 +113,7 @@ Vulsセットアップに必要な以下のソフトウェアをインストー�
 - GNU Make
 - go v1.7.1 or later (The latest version is recommended)
     - https://golang.org/doc/install
+- golang-glide
 
 ```bash
 $ ssh ec2-user@52.100.100.100  -i ~/.ssh/private.pem
